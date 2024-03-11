@@ -1,0 +1,14 @@
+*.d
+*.[oa]
+*.[ls]o
+*.obj
+*.gch
+*.pch
+*.so
+*.dylib
+*.dll
+*.exe
+*.out
+*.app
+.DS_Store
+*.swp
