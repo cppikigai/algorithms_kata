@@ -6,3 +6,4 @@ For training, I'm using the popular platform LeetCode. Additionally, I will list
 |   #   |    Problem name    |    Description    |    Solution    |     Topics     |
 |-------|--------------------|-------------------|----------------|----------------|
 |  0001 | 2235. Add Two Integers | [leetcode.com](https://leetcode.com/problems/add-two-integers/)  | [leetcode_2235.cpp](https://github.com/cppikigai/algorithms_kata/blob/master/solutions/leetcode_2235.cpp)| Math |
+|  0002 | 2236. Root Equals Sum of Children | [leetcode.com](https://leetcode.com/problems/root-equals-sum-of-children/)  | [leetcode_2236.cpp](https://github.com/cppikigai/algorithms_kata/blob/master/solutions/leetcode_2236.cpp)| Tree, Binary Tree |
