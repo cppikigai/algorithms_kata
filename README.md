@@ -9,6 +9,6 @@ For training, I'm using the popular platform LeetCode. Additionally, I will list
 |  0002 | 2236. Root Equals Sum of Children | [leetcode.com](https://leetcode.com/problems/root-equals-sum-of-children/)  | [leetcode_2236.cpp](https://github.com/cppikigai/algorithms_kata/blob/main/solutions/leetcode_2236.cpp)| Tree, Binary Tree |
 |  0003 | 1480. Running Sum of 1d Array | [leetcode.com](https://leetcode.com/problems/running-sum-of-1d-array/)  | [leetcode_1480.cpp](https://github.com/cppikigai/algorithms_kata/blob/main/solutions/leetcode_1480.cpp) | Array, Prefix sum |
 |  0004 | 1672. Richest Customer Wealth | [leetcode.com](https://leetcode.com/problems/richest-customer-wealth/) | [leetcode_1672.cpp](https://github.com/cppikigai/algorithms_kata/blob/main/solutions/leetcode_1672.cpp) | Array, Matrix |
-|  0005 | 412. Fizz Buzz | [leetcode.com](https://leetcode.com/problems/fizz-buzz/description/) | [leetcode_412.cpp](ttps://github.com/cppikigai/algorithms_kata/blob/main/solutions/leetcode_412.cpp) | Math, String, Simulation |
+|  0005 | 412. Fizz Buzz | [leetcode.com](https://leetcode.com/problems/fizz-buzz/description/) | [leetcode_412.cpp](https://github.com/cppikigai/algorithms_kata/blob/main/solutions/leetcode_412.cpp) | Math, String, Simulation |
 |  0006 | 1342. Number of Steps to Reduce a Number to Zero | [leetcode.com](https://leetcode.com/problems/number-of-steps-to-reduce-a-number-to-zero/) | [leetcode_1342.cpp](https://github.com/cppikigai/algorithms_kata/blob/main/solutions/leetcode_1342.cpp) | Math, Bit Manipulation |
 |  0007 |  |  |  |  |
