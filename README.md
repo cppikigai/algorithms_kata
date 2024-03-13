@@ -15,4 +15,7 @@ For training, I'm using the popular platform LeetCode. Additionally, I will list
 |  0008 | 383. Ransom Note | [leetcode.com](https://leetcode.com/problems/ransom-note/) | [leetcode_383.cpp](https://github.com/cppikigai/algorithms_kata/blob/main/solutions/leetcode_383.cpp) | String, Counting |
 |  0009 | 2485. Find the Pivot Integer | [leetcode.com](https://leetcode.com/problems/find-the-pivot-integer/) | [leetcode_2485.cpp](https://github.com/cppikigai/algorithms_kata/blob/main/solutions/leetcode_2485.cpp) | Math, Prefix Sum |
 |  0010 | 88. Merge Sorted Array | [leetcode.com](https://leetcode.com/problems/merge-sorted-array/) | [leetcode_88.cpp](https://github.com/cppikigai/algorithms_kata/blob/main/solutions/leetcode_88.cpp) | Array, Two Pointers, Sorting |
-|  0011 |  |  |  |  |
+|  0011 | 26. Remove Duplicates from Sorted Array | [leetcode.com](https://leetcode.com/problems/remove-duplicates-from-sorted-array/) | [leetcode_26.cpp](https://github.com/cppikigai/algorithms_kata/blob/main/solutions/leetcode_26.cpp) | Array, Two Pointers |
+|  0012 |  |  |  |  |
+|  0013 |  |  |  |  |
+|  0014 |  |  |  |  |
