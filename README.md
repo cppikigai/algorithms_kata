@@ -13,4 +13,5 @@ For training, I'm using the popular platform LeetCode. Additionally, I will list
 |  0006 | 1342. Number of Steps to Reduce a Number to Zero | [leetcode.com](https://leetcode.com/problems/number-of-steps-to-reduce-a-number-to-zero/) | [leetcode_1342.cpp](https://github.com/cppikigai/algorithms_kata/blob/main/solutions/leetcode_1342.cpp) | Math, Bit Manipulation |
 |  0007 | 876. Middle of the Linked List | [leetcode.com](https://leetcode.com/problems/middle-of-the-linked-list/) | [leetcode_876.cpp](https://github.com/cppikigai/algorithms_kata/blob/main/solutions/leetcode_876.cpp) | Linked List, Two Pointers |
 |  0008 | 383. Ransom Note | [leetcode.com](https://leetcode.com/problems/ransom-note/) | [leetcode_383.cpp](https://github.com/cppikigai/algorithms_kata/blob/main/solutions/leetcode_383.cpp) | String, Counting |
-|  0009 |  |  |  |  |
+|  0009 | 2485. Find the Pivot Integer | [leetcode.com](https://leetcode.com/problems/find-the-pivot-integer/) | [leetcode_2485.cpp](https://github.com/cppikigai/algorithms_kata/blob/main/solutions/leetcode_2485.cpp) | Math, Prefix Sum |
+|  0010 |  |  |  |  |
