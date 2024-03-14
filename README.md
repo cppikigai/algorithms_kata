@@ -18,4 +18,10 @@ For training, I'm using the popular platform LeetCode. Additionally, I will list
 |  0011 | 26. Remove Duplicates from Sorted Array | [leetcode.com](https://leetcode.com/problems/remove-duplicates-from-sorted-array/) | [leetcode_26.cpp](https://github.com/cppikigai/algorithms_kata/blob/main/solutions/leetcode_26.cpp) | Array, Two Pointers |
 |  0012 | 27. Remove Element | [leetcode.com](https://leetcode.com/problems/remove-element/) | [leetcode_27.cpp](https://github.com/cppikigai/algorithms_kata/blob/main/solutions/leetcode_27.cpp) | Array, Two Pointers |
 |  0013 | 141. Linked List Cycle | [leetcode.com](https://leetcode.com/problems/linked-list-cycle/description/) | [leetcode_141.cpp](https://github.com/cppikigai/algorithms_kata/blob/main/solutions/leetcode_141.cpp) | Linked List, Two Pointers |
-|  0014 |  |  |  |  |
+|  0014 | 9. Palindrome Number | [leetcode.com](https://leetcode.com/problems/palindrome-number/) | [leetcode_9.cpp](https://github.com/cppikigai/algorithms_kata/blob/main/solutions/leetcode_9.cpp) | Math |
+|  0015 |  |  |  |  |
+|  0016 |  |  |  |  |
+|  0017 |  |  |  |  |
+|  0018 |  |  |  |  |
+|  0019 |  |  |  |  |
+|  0020 |  |  |  |  |
