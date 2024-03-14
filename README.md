@@ -17,5 +17,5 @@ For training, I'm using the popular platform LeetCode. Additionally, I will list
 |  0010 | 88. Merge Sorted Array | [leetcode.com](https://leetcode.com/problems/merge-sorted-array/) | [leetcode_88.cpp](https://github.com/cppikigai/algorithms_kata/blob/main/solutions/leetcode_88.cpp) | Array, Two Pointers, Sorting |
 |  0011 | 26. Remove Duplicates from Sorted Array | [leetcode.com](https://leetcode.com/problems/remove-duplicates-from-sorted-array/) | [leetcode_26.cpp](https://github.com/cppikigai/algorithms_kata/blob/main/solutions/leetcode_26.cpp) | Array, Two Pointers |
 |  0012 | 27. Remove Element | [leetcode.com](https://leetcode.com/problems/remove-element/) | [leetcode_27.cpp](https://github.com/cppikigai/algorithms_kata/blob/main/solutions/leetcode_27.cpp) | Array, Two Pointers |
-|  0013 |  |  |  |  |
+|  0013 | 141. Linked List Cycle | [leetcode.com](https://leetcode.com/problems/linked-list-cycle/description/) | [leetcode_141.cpp](https://github.com/cppikigai/algorithms_kata/blob/main/solutions/leetcode_141.cpp) | Linked List, Two Pointers |
 |  0014 |  |  |  |  |
