@@ -22,6 +22,6 @@ For training, I'm using the popular platform LeetCode. Additionally, I will list
 |  0015 | 58. Length of Last Word | [leetcode.com](https://leetcode.com/problems/length-of-last-word/) | [leetcode_58.cpp](https://github.com/cppikigai/algorithms_kata/blob/main/solutions/leetcode_58.cpp) | String |
 |  0016 | 14. Longest Common Prefix | [leetcode.com](https://leetcode.com/problems/longest-common-prefix/) | [leetcode_14.cpp](https://github.com/cppikigai/algorithms_kata/blob/main/solutions/leetcode_14.cpp) | String, Trie |
 |  0017 | 28. Find the Index of the First Occurrence in a String | [leetcode.com](https://leetcode.com/problems/find-the-index-of-the-first-occurrence-in-a-string/) | [leetcode_28.cpp](https://github.com/cppikigai/algorithms_kata/blob/main/solutions/leetcode_28.cpp) | Two Pointers, String |
-|  0018 |  |  |  |  |
+|  0018 | 125. Valid Palindrome | [leetcode.com](https://leetcode.com/problems/valid-palindrome/) | [leetcode_125.cpp](https://github.com/cppikigai/algorithms_kata/blob/main/solutions/leetcode_125.cpp) | Two Pointers, String |
 |  0019 |  |  |  |  |
 |  0020 |  |  |  |  |
