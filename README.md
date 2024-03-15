@@ -24,4 +24,8 @@ For training, I'm using the popular platform LeetCode. Additionally, I will list
 |  0017 | 28. Find the Index of the First Occurrence in a String | [leetcode.com](https://leetcode.com/problems/find-the-index-of-the-first-occurrence-in-a-string/) | [leetcode_28.cpp](https://github.com/cppikigai/algorithms_kata/blob/main/solutions/leetcode_28.cpp) | Two Pointers, String |
 |  0018 | 125. Valid Palindrome | [leetcode.com](https://leetcode.com/problems/valid-palindrome/) | [leetcode_125.cpp](https://github.com/cppikigai/algorithms_kata/blob/main/solutions/leetcode_125.cpp) | Two Pointers, String |
 |  0019 | 205. Isomorphic Strings | [leetcode.com](https://leetcode.com/problems/isomorphic-strings/) | [leetcode_205.cpp](https://github.com/cppikigai/algorithms_kata/blob/main/solutions/leetcode_205.cpp) | Hash Table, String |
-|  0020 |  |  |  |  |
+|  0020 | 1. Two Sum | [leetcode.com](https://leetcode.com/problems/two-sum/) | [leetcode_1.cpp](https://github.com/cppikigai/algorithms_kata/blob/main/solutions/leetcode_1.cpp) | Array, Hash Table |
+|  0021 |  |  |  |  |
+|  0022 |  |  |  |  |
+|  0024 |  |  |  |  |
+|  0025 |  |  |  |  |
