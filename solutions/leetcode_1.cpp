@@ -39,17 +39,17 @@ void test(const std::string& name, std::vector<int>& nums, int target, std::vect
 
 int main()
 {
-    std::vector<int> test1_nums = {2, 7, 11, 15};
-    std::vector<int> test1_expected = {0, 1};
-    test("Test 1", test1_nums, 9, test1_expected);
+    std::vector<int> testNums1 = {2, 7, 11, 15};
+    std::vector<int> testExpected1 = {0, 1};
+    test("Test 1", testNums1, 9, testExpected1);
 
-    std::vector<int> test2_nums = {3, 2, 4};
-    std::vector<int> test2_expected = {1, 2};
-    test("Test 2", test2_nums, 6, test2_expected);
+    std::vector<int> testNums2 = {3, 2, 4};
+    std::vector<int> testExpected2 = {1, 2};
+    test("Test 2", testNums2, 6, testExpected2);
 
-    std::vector<int> test3_nums = {3, 3};
-    std::vector<int> test3_expected = {0, 1};
-    test("Test 3", test3_nums, 6, test3_expected);
+    std::vector<int> testNums3 = {3, 3};
+    std::vector<int> testExpected3 = {0, 1};
+    test("Test 3", testNums3, 6, testExpected3);
 
     return 0;
 }
