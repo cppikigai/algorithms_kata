@@ -26,6 +26,6 @@ For training, I'm using the popular platform LeetCode. Additionally, I will list
 |  0019 | 205. Isomorphic Strings | [leetcode.com](https://leetcode.com/problems/isomorphic-strings/) | [leetcode_205.cpp](https://github.com/cppikigai/algorithms_kata/blob/main/solutions/leetcode_205.cpp) | Hash Table, String |
 |  0020 | 1. Two Sum | [leetcode.com](https://leetcode.com/problems/two-sum/) | [leetcode_1.cpp](https://github.com/cppikigai/algorithms_kata/blob/main/solutions/leetcode_1.cpp) | Array, Hash Table |
 |  0021 | 66. Plus One | [leetcode.com](https://leetcode.com/problems/plus-one/) | [leetcode_26.cpp](https://github.com/cppikigai/algorithms_kata/blob/main/solutions/leetcode_26.cpp) | Array, Math |
-|  0022 |  |  |  |  |
+|  0022 | 242. Valid Anagram | [leetcode.com](https://leetcode.com/problems/valid-anagram/) | [leetcode_242.cpp](https://github.com/cppikigai/algorithms_kata/blob/main/solutions/leetcode_242.cpp) | Hash Table, String, Sorting |
 |  0024 |  |  |  |  |
 |  0025 |  |  |  |  |
