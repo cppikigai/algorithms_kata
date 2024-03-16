@@ -27,5 +27,5 @@ For training, I'm using the popular platform LeetCode. Additionally, I will list
 |  0020 | 1. Two Sum | [leetcode.com](https://leetcode.com/problems/two-sum/) | [leetcode_1.cpp](https://github.com/cppikigai/algorithms_kata/blob/main/solutions/leetcode_1.cpp) | Array, Hash Table |
 |  0021 | 66. Plus One | [leetcode.com](https://leetcode.com/problems/plus-one/) | [leetcode_26.cpp](https://github.com/cppikigai/algorithms_kata/blob/main/solutions/leetcode_26.cpp) | Array, Math |
 |  0022 | 242. Valid Anagram | [leetcode.com](https://leetcode.com/problems/valid-anagram/) | [leetcode_242.cpp](https://github.com/cppikigai/algorithms_kata/blob/main/solutions/leetcode_242.cpp) | Hash Table, String, Sorting |
-|  0024 |  |  |  |  |
+|  0024 | 202. Happy Number | [leetcode.com](https://leetcode.com/problems/happy-number/) | [leetcode_202.cpp](https://github.com/cppikigai/algorithms_kata/blob/main/solutions/leetcode_202.cpp) | Hash Table, Math, Two Pointers |
 |  0025 |  |  |  |  |
