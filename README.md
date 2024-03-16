@@ -25,7 +25,7 @@ For training, I'm using the popular platform LeetCode. Additionally, I will list
 |  0018 | 125. Valid Palindrome | [leetcode.com](https://leetcode.com/problems/valid-palindrome/) | [leetcode_125.cpp](https://github.com/cppikigai/algorithms_kata/blob/main/solutions/leetcode_125.cpp) | Two Pointers, String |
 |  0019 | 205. Isomorphic Strings | [leetcode.com](https://leetcode.com/problems/isomorphic-strings/) | [leetcode_205.cpp](https://github.com/cppikigai/algorithms_kata/blob/main/solutions/leetcode_205.cpp) | Hash Table, String |
 |  0020 | 1. Two Sum | [leetcode.com](https://leetcode.com/problems/two-sum/) | [leetcode_1.cpp](https://github.com/cppikigai/algorithms_kata/blob/main/solutions/leetcode_1.cpp) | Array, Hash Table |
-|  0021 |  |  |  |  |
+|  0021 | 66. Plus One | [leetcode.com](https://leetcode.com/problems/plus-one/) | [leetcode_26.cpp](https://github.com/cppikigai/algorithms_kata/blob/main/solutions/leetcode_26.cpp) | Array, Math |
 |  0022 |  |  |  |  |
 |  0024 |  |  |  |  |
 |  0025 |  |  |  |  |
