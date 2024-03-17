@@ -31,6 +31,6 @@ For training, I'm using the popular platform LeetCode. Additionally, I will list
 |  0025 | 80. Remove Duplicates from Sorted Array II | [leetcode.com](https://leetcode.com/problems/remove-duplicates-from-sorted-array-ii/) | [leetcode_80.cpp](https://github.com/cppikigai/algorithms_kata/blob/main/solutions/leetcode_80.cpp) | Array, Two Pointers |
 |  0026 | 169. Majority Element | [leetcode.com](https://leetcode.com/problems/majority-element/) | [leetcode_169.cpp](https://github.com/cppikigai/algorithms_kata/blob/main/solutions/leetcode_169.cpp) | Array, Hash Table, Divide and Conquer, Sorting, Counting |
 |  0027 | 121. Best Time to Buy and Sell Stock | [leetcode.com](https://leetcode.com/problems/best-time-to-buy-and-sell-stock/) | [leetcode_121.cpp](https://github.com/cppikigai/algorithms_kata/blob/main/solutions/leetcode_121.cpp) | Array, Dynamic Programming |
-|  0028 |  |  |  |  |
+|  0028 | 392. Is Subsequence | [leetcode.com](https://leetcode.com/problems/is-subsequence/) | [leetcode_392.cpp](https://github.com/cppikigai/algorithms_kata/blob/main/solutions/leetcode_392.cpp) | Two Pointers, String, Dynamic Programming |
 |  0029 |  |  |  |  |
 |  0030 |  |  |  |  |
