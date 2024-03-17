@@ -29,7 +29,7 @@ For training, I'm using the popular platform LeetCode. Additionally, I will list
 |  0022 | 242. Valid Anagram | [leetcode.com](https://leetcode.com/problems/valid-anagram/) | [leetcode_242.cpp](https://github.com/cppikigai/algorithms_kata/blob/main/solutions/leetcode_242.cpp) | Hash Table, String, Sorting |
 |  0024 | 202. Happy Number | [leetcode.com](https://leetcode.com/problems/happy-number/) | [leetcode_202.cpp](https://github.com/cppikigai/algorithms_kata/blob/main/solutions/leetcode_202.cpp) | Hash Table, Math, Two Pointers |
 |  0025 | 80. Remove Duplicates from Sorted Array II | [leetcode.com](https://leetcode.com/problems/remove-duplicates-from-sorted-array-ii/) | [leetcode_80.cpp](https://github.com/cppikigai/algorithms_kata/blob/main/solutions/leetcode_80.cpp) | Array, Two Pointers |
-|  0026 |  |  |  |  |
+|  0026 | 169. Majority Element | [leetcode.com](https://leetcode.com/problems/majority-element/) | [leetcode_169.cpp](https://github.com/cppikigai/algorithms_kata/blob/main/solutions/leetcode_169.cpp) | Array, Hash Table, Divide and Conquer, Sorting, Counting |
 |  0027 |  |  |  |  |
 |  0028 |  |  |  |  |
 |  0029 |  |  |  |  |
